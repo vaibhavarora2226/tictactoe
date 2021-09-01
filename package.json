@@ -1,4 +1,7 @@
 {
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+ "terminal.integrated.shellArgs.windows": ["-l", "-i"],
+ 
   "name": "tictactoe",
   "version": "0.1.0",
   "description": "",
